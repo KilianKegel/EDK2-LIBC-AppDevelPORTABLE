@@ -1,0 +1,1 @@
+build.bat -a X64 -p MYAPPS\MYAPPS.dsc
