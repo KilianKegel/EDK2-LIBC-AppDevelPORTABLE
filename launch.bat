@@ -91,7 +91,7 @@ if not exist EDK2\Conf\target.txt (
     echo TOOL_CHAIN_CONF       = Conf/tools_def.txt>>   EDK2\Conf\target.txt
     echo TOOL_CHAIN_TAG        = VS2015x86>>            EDK2\Conf\target.txt
     echo BUILD_RULE_CONF = Conf/build_rule.txt>>        EDK2\Conf\target.txt
-    echo MAX_CONCURRENT_THREAD_NUMBER = 1>>             EDK2\Conf\target.txt
+    echo MAX_CONCURRENT_THREAD_NUMBER = 1 >>             EDK2\Conf\target.txt
 )
 
 rem #######################################################################
