@@ -47,6 +47,8 @@ The Enterprise WDK contains the necessary elements to build drivers and basic Wi
 
 
 ## Revision history
+### 20240225
+* improve portability, auto-download and setup of all required build tools
 ### 20240224
 * creation, initial version based on
 	* [edk2-stable202402](https://github.com/tianocore/edk2/releases/tag/edk2-stable202402)
