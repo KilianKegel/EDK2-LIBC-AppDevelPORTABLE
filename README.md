@@ -13,7 +13,7 @@ The latest available **EDK2-Release** that offers the required packages is
 Provide an easy *getting started* with latest available ***Tianocore community*** 
 [**EDK2**](https://github.com/tianocore/edk2/releases?page=1) and **EDK2-LIBC**.
 
-Enable devolpers to validate the **EDK2-LIBC** imlementation on their own
+Enable devolpers to validate the **EDK2-LIBC** implementation on their own
 
 Enable devolpers to write their own **EDK2-LIBC** based UEFI Shell apps in C.
 
@@ -25,9 +25,9 @@ required build tools for Windows 10/11 machines running the AMD64 instruction se
 * **Python 3.10.11** [python-3.10.11-embed-amd64.zip](https://www.python.org/ftp/python/3.10.11/python-3.10.11-embed-amd64.zip)
 * **NASM 2.16.01** [nasm-2.16.01-win64.zip](https://www.nasm.us/pub/nasm/releasebuilds/2.16.01/win64/nasm-2.16.01-win64.zip)
 
-*The above tool set is automatically downloaded, extracted and setup during **LAUNCH.BAT** project start.*
+*The above tool set is automatically downloaded, extracted and set up during **LAUNCH.BAT** project start.*
 
-To speedup repeated installations (avoid repeated downloads of huge tool images),
+To speed up repeated installations (avoid repeated downloads of huge tool images),
 the images may be –initially– stored permanently in local folder/share, beyond an environment variable
 **MYDOWNLOADS**.
 
