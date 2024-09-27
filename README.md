@@ -25,7 +25,8 @@ required build tools for Windows 10/11 machines running the AMD64 instruction se
 * **Python 3.10.11** [python-3.10.11-embed-amd64.zip](https://www.python.org/ftp/python/3.10.11/python-3.10.11-embed-amd64.zip)
 * **NASM 2.16.01** [nasm-2.16.01-win64.zip](https://www.nasm.us/pub/nasm/releasebuilds/2.16.01/win64/nasm-2.16.01-win64.zip)
 
-*The above tool set is automatically downloaded, extracted and set up during **LAUNCH.BAT** project start.*
+***The above tool set is automatically downloaded, extracted and set up during **LAUNCH.BAT** project start.***<br>
+***No need to install build tools separately!***
 
 To speed up repeated installations (avoid repeated downloads of huge tool images),
 the images may be –initially– stored permanently in local folder/share, beyond an environment variable
